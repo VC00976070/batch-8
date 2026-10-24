@@ -16,6 +16,8 @@ Zoom is a video conferencing tool used for online meetings, webinars, and virtua
 
 This is sample line.
 
+added a new line
+
 ## Prerequisites
 
 Before you install Zoom, make sure that you have:
