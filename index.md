@@ -1,3 +1,2 @@
-This is a zoom installation guide.
+This is a zoom installation guide. to know more, click [here](zoom-installation-guide.md).
 
-Added a new line.

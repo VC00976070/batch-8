@@ -4,4 +4,4 @@ This repo contains the source files for zoom installation guide.
 
 sample line
 
-City: Delhi
+City: Delhi & Bangalore
